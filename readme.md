@@ -21,7 +21,7 @@ pip install langchain langchain-ollama ollama
 ```
 
 # Additional
-## ref: https://github.com/ollama/ollama
+### ref: https://github.com/ollama/ollama
 ```
 ollama pull llama3.2:1b
 ollama ps
