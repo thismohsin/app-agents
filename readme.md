@@ -13,6 +13,7 @@ pip install git+https://github.com/openai/swarm.git
 pip install crewai crewai-tools langchain-ollama 
 pip install --upgrade crewai
 pip install langchain langchain-ollama ollama
+pip install pyautogen
 ```
 
 # Run
